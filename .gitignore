@@ -78,3 +78,4 @@ read
 
 Pipfile
 Pipfile.lock
+pyenv/
