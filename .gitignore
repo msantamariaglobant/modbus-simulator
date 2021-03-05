@@ -75,3 +75,6 @@ read
 .vscode/
 
 .venv
+
+Pipfile
+Pipfile.lock
